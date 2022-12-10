@@ -14,10 +14,6 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>Certifications:</h2>
-  - [GIAC Certified Incident Handler (GCIH)](https://www.credly.com/badges/709cffce-be81-4f40-bd93-a5e80f5abf08/public_url)
-  - [Active Directory Bulk User Creation](https://github.com/Omarimam2/ActiveDirectoryLab)
-  - [Active Directory Bulk User Creation](https://github.com/Omarimam2/ActiveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
