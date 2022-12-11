@@ -1,4 +1,5 @@
 <h1>Hi, I'm Omar! </a></h1>
+<h1>And I'm Fawaz! </a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
