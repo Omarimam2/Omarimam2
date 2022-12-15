@@ -13,7 +13,7 @@
 - [GSEC](https://www.credly.com/badges/368be53e-b7bb-4334-b1e3-e2a45d02deda/public_url)
 - [GFACT](https://www.credly.com/badges/07e12774-e2a4-4600-b0cb-b675b86a7157/public_url)
 - [Azure SC-900](https://www.credly.com/badges/d26b6b30-ed98-4e00-afc7-261a51ceb423/public_url)
-- [CyberArk Trustee](https://imgur.com/mFNLlLw)
+- [CyberArk Trustee](https://drive.google.com/file/d/1hIbteNWOiZj0WgfRQM02K2nMLjuc6TD6/view?usp=sharing)
 
 
 <h2> 🤳 Connect with me:</h2>
