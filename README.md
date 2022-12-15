@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects</h2>
 
 - <b>PowerShell</b>
-  - [Windows EventLog:Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/Omarimam2/Azure-Sentinel---Geomapping-Failed-RDP-Attacks-)
+  - [Windows EventLog: Failed RDP Logins](https://github.com/Omarimam2/Azure-Sentinel---Geomapping-Failed-RDP-Attacks-)
   - [Active Directory Bulk User Creation](https://github.com/Omarimam2/ActiveDirectoryLab)
   
 
